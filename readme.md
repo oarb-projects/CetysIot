@@ -52,9 +52,13 @@ and bills based on data transfer, reads, writes and deletes
 add .gitignore
 git config --global user.name "Oscar Rosete"
 git config --global user.email oscaralonso11@hotmail.com
-git clone /home/alice/project myrepo
 git init
 git add .
 git commit -m "First commit"
+git remote add origin https://github.com/oarb-projects/CetysIot.git
+git push -u origin master
+===modifications
+git add .
+git commit -m "Modified readme"
 git remote add origin https://github.com/oarb-projects/CetysIot.git
 git push -u origin master
