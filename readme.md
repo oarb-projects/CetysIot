@@ -59,6 +59,14 @@ git remote add origin https://github.com/oarb-projects/CetysIot.git
 git push -u origin master
 ===modifications
 git add .
-git commit -m "Modified readme"
+git commit -m "Modified readme2"
 git remote add origin https://github.com/oarb-projects/CetysIot.git
 git push -u origin master
+
+17:35
+https://console.firebase.google.com/project/cetysiot/database/firestore/data~2Fcities~2FLA
+https://www.youtube.com/watch?v=yJ6y8m2S7oI
+https://firebase.google.com/docs/firestore/quickstart?authuser=0
+unknown
+https://firebase.google.com/docs/firestore/use-rest-api?authuser=0
+https://firebase.google.com/docs/firestore/query-data/listen?authuser=0
